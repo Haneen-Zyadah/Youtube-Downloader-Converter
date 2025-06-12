@@ -30,5 +30,4 @@ A Python desktop app that allows users to download YouTube videos in various res
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
-   cd youtube-downloader
+   https://github.com/Haneen-Zyadah/Youtube-Downloader-Converter.git
